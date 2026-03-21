@@ -1,42 +1,33 @@
-## Ola! Eu sou o Helder
+## 👋 Olá! Eu sou o Helder
 
--👨‍💼Atualmente trabalhando com desenvolvimento mobile
+💻 Desenvolvedor **Front-end**  
+🎯 Focado em criação de interfaces modernas e responsivas  
+📚 Estudando: **HTML, CSS, JavaScript, React**
 
--📖Estudando Java,Kotlin,MySql,PostgresQL
+---
+
+### 📊 Estatísticas
 
 <div>
-  <a href="https://github.com/helder-marques/Helder/edit/main/README.md">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=helder-marques&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-marques&theme=great-gatsby&layout=compact&langs_count=16"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=helder-marques&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-marques&theme=great-gatsby&layout=compact&langs_count=8"/>
 </div>
 
-    
- <div style="display=inline_block"><br>
-  
-  <img align="center" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
-  
-  <img height="50em" widht="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
+---
 
+### 🚀 Tecnologias
 
-  <img align="center"  height="50em" widht="50em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<div style="display: inline-block"><br>
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
 
+---
 
-  <img align="center"  height="50em" widht="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+### 📌 Sobre mim
 
-  <img align="center" height="50em" widht="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-
-  <img align="center"  height="50em" widht="50em"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-  
-</div> 
-
-
-
-
-          
-          
-
-
-
-
-
+- 🎯 Buscando estágio como **Desenvolvedor Front-end**
+- 💡 Apaixonado por UI/UX e boas práticas de código
+- 🚀 Sempre evoluindo com novos projetos
